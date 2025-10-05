@@ -26,3 +26,12 @@ It uses Baseline data to highlight consistently supported features, which reduce
 - **Streamlit** for building the interactive dashboard
 - **Markdown** for formatting content
 - **GitHub** for version control and public hosting
+
+## 📸 Demo
+
+Here’s how the dashboard looks:
+
+![Main Dashboard](preview one.png)
+![Feature Table](preview two.png)
+![Feature Table](preview three.png)
+
