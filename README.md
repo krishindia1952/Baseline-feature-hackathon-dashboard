@@ -31,7 +31,7 @@ It uses Baseline data to highlight consistently supported features, which reduce
 
 Here’s how the dashboard looks:
 
-![Main Dashboard](preview one.png)
-![Feature Table](preview two.png)
-![Feature Table](preview three.png)
+![Main Dashboard](preview_one.png)
+![Feature Table](preview_two.png)
+![Feature Table](preview_three.png)
 
